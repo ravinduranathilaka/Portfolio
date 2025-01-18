@@ -60,7 +60,7 @@
         
         .scrollContent {
             display: inline-flex;
-            gap: 20px; /* Space between items */
+            gap: 20px; 
         }
         
         .scrollItem {
@@ -70,7 +70,7 @@
             padding: 20px;
             border-radius: 5px;
             font-size: 18px;
-            min-width: 150px; /* Set a fixed width for each item */
+            min-width: 150px; 
             display: inline-block;
         }
 
