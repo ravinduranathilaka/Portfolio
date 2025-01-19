@@ -10,6 +10,12 @@
             position: sticky;
             background-color : #ffffff;
             color: #000000;
+            margin-top: 0;
+        }
+
+        .stickyHeader h1{
+            margin-top: 0;
+            padding: 10px;
         }
 
         .profile{
